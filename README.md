@@ -1,46 +1,35 @@
-# 🎬 VibeScroll Portfolio
+# 🎬 my-portfolio
 
-A cinematic **scrollytelling developer portfolio** built using Next.js, Canvas, and modern web animation techniques.
+A cinematic **scrollytelling developer portfolio** built with Next.js, Canvas, and modern web animation techniques — designed to feel like a premium product site rather than a typical resume page.
 
-This project focuses on creating an immersive, interactive experience using **scroll-driven animations, futuristic UI, and AI-inspired design elements**.
-
----
-
-## 🌐 Live Demo
-
-
-[**View Live Portfolio**](https://vibe-scroll-portfolio.vercel.app/)
-
----
-
-## 📸 Preview
-
-> (Add a GIF or screenshot here later)
+**[View Live Demo →](https://vibe-scroll-portfolio.vercel.app/)**
 
 ---
 
 ## ✨ Features
 
-- 🎥 Scroll-based canvas animation (image sequence rendering)
-- ⚡ Smooth scrolling experience (Lenis)
-- 🖱️ Custom glowing cursor with magnetic interactions
-- 🧠 Futuristic AI-style animated background
-- 💎 Glassmorphism UI with neon accents
-- 🧩 Modular and scalable component structure
-- 📱 Fully responsive across devices
+| Feature | Description |
+|---|---|
+| 🎥 Scroll-driven canvas animation | Image-sequence rendering synced to scroll position |
+| ⚡ Smooth scrolling | Powered by Lenis for a buttery, physics-based feel |
+| 🖱️ Custom cursor | Glowing, magnetic cursor interactions |
+| 🧠 Animated background | Futuristic, AI-inspired interactive backdrop |
+| 💎 Glassmorphism UI | Neon-accented glass panels throughout |
+| 🧩 Modular architecture | Clean, scalable component structure |
+| 📱 Fully responsive | Optimized for desktop, tablet, and mobile |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Core Technologies
+**Core**
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer)
 
-### 🎨 Rendering & Interaction
+**Rendering & Interaction**
 
 ![HTML5 Canvas](https://img.shields.io/badge/Canvas-Animation-orange?style=for-the-badge&logo=html5)
 ![Lenis](https://img.shields.io/badge/Lenis-Smooth%20Scroll-purple?style=for-the-badge)
@@ -51,7 +40,7 @@ This project focuses on creating an immersive, interactive experience using **sc
 ## 📂 Project Structure
 
 ```
-VibeScroll-Portfolio/
+my-portfolio/
 ├── src/
 │   ├── app/
 │   │   ├── layout.tsx          # Root layout component
@@ -89,35 +78,24 @@ VibeScroll-Portfolio/
 
 ### Prerequisites
 
-- Node.js 18+ 
+- Node.js 18+
 - npm or yarn
 
 ### Installation
 
-Clone the repository:
-
 ```bash
-git clone https://github.com/gee-46/VibeScroll-Portfolio.git
-cd VibeScroll-Portfolio
-```
+# Clone the repository
+git clone https://github.com/gee-46/my-portfolio.git
+cd my-portfolio
 
-Install dependencies:
-
-```bash
+# Install dependencies
 npm install
-```
 
-Run the development server:
-
-```bash
+# Run the development server
 npm run dev
 ```
 
-Open your browser and navigate to:
-
-```
-http://localhost:3000
-```
+Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
@@ -125,23 +103,23 @@ http://localhost:3000
 
 The portfolio uses a sophisticated scroll-driven animation system:
 
-1. **Frame Loading**: Image frames are loaded from `/public/sequence/`
-2. **Scroll Tracking**: Scroll progress is tracked using Framer Motion
-3. **Frame Mapping**: Scroll position is mapped to a frame index
-4. **Canvas Rendering**: Frames are rendered on an HTML5 Canvas
-5. **Content Animation**: Overlay content animates synchronized with scroll
+1. **Frame Loading** — Image frames are loaded from `/public/sequence/`
+2. **Scroll Tracking** — Scroll progress is tracked using Framer Motion
+3. **Frame Mapping** — Scroll position is mapped to a frame index
+4. **Canvas Rendering** — Frames are rendered on an HTML5 Canvas
+5. **Content Animation** — Overlay content animates in sync with scroll
 
-This creates a cinematic storytelling experience similar to modern product websites like Apple, Nike, and other premium brands.
+This produces a cinematic storytelling experience similar to premium product sites like Apple and Nike.
 
 ---
 
 ## 🤖 Tools & Inspiration
 
-- **Antigravity** - UI/UX exploration
-- **Gemini Pro** - Code optimization and ideation
-- **Google Whisk** - Design inspiration and asset generation
+- **Antigravity** — UI/UX exploration
+- **Gemini Pro** — Code optimization and ideation
+- **Google Whisk** — Design inspiration and asset generation
 
-These tools helped in ideation, UI structuring, and improving prompt engineering skills.
+These tools supported ideation, UI structuring, and prompt engineering throughout the build.
 
 ---
 
@@ -151,7 +129,7 @@ This project was built as a creative exploration to:
 
 - ✨ Experiment with advanced frontend interactions
 - 🎞️ Explore scrollytelling techniques
-- 🌌 Design futuristic AI-inspired interfaces
+- 🌌 Design futuristic, AI-inspired interfaces
 - 📚 Showcase modern web development capabilities
 
 ---
@@ -159,12 +137,7 @@ This project was built as a creative exploration to:
 ## 🧑‍💻 Author
 
 **Gautam N Chipkar**
-
 AI & Data Science Engineering Student | SGBIT
-
----
-
-## 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-gee--46-black?style=for-the-badge&logo=github)](https://github.com/gee-46)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gautam%20Chipkar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gautam-n-chipkar/)
@@ -173,7 +146,7 @@ AI & Data Science Engineering Student | SGBIT
 
 ## ⭐ Show Your Support
 
-If you found this project interesting, please consider:
+If you found this project interesting:
 
 - ⭐ **Star** the repository
 - 🍴 **Fork** it for your own use
@@ -184,8 +157,8 @@ If you found this project interesting, please consider:
 
 ## 📝 License
 
-This project is open source and available under the MIT License.
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Made with ❤️ by Gautam N Chipkar**
+<p align="center">Made with ❤️ by <b>Gautam N Chipkar</b></p>
