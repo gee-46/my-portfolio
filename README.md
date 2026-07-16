@@ -6,7 +6,7 @@ A cinematic **scrollytelling developer portfolio** built with Next.js, Canvas, a
 
 ---
 
-## ✨ 
+## ✨ Features
 
 | Feature | Description |
 |---|---|
